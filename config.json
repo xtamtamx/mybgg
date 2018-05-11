@@ -9,8 +9,8 @@
         }
     },
     "algolia": {
-        "app_id": "YOUR_APP_ID",
-        "api_key_search_only": "YOUR_PUBLIC_API_KEY",
-        "index_name": "YOUR_INDEX_NAME"
+        "app_id": "9N1CN5PMCH",
+        "api_key_search_only": "adbdd58d1534e5417e177404a53e0003",
+        "index_name": "Games"
     }
 }
